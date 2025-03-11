@@ -1,0 +1,6 @@
+tensorflow>=2.9.0  
+matplotlib
+opencv-python-headless 
+tqdm
+numpy
+kaggle
